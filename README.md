@@ -1,1 +1,1 @@
-# Perl-script
+USEARCH 聚类OTU的工作流程
