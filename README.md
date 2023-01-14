@@ -1,1 +1,1 @@
-USEARCH 聚类OTU的工作流程
+The filtered sequences are analyzed using USEARCH to generate OTU tables from MiSeq high-throughput data following UPARSE pipeline and select their representative sequences.
